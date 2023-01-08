@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sort ver="1.0">
+  <SkillGroup name="Combat Skills" skillset="all">
+    <Shortname>combat</Shortname>
+    <Shortname>comba</Shortname>
+    <Shortname>comb</Shortname>
+    <Shortname>com</Shortname>
+    <Skill>Shield Usage</Skill>
+    <Skill>Light Armor</Skill>
+    <Skill>Chain Armor</Skill>
+    <Skill>Brigandine</Skill>
+    <Skill>Plate Armor</Skill>
+    <Skill>Defending</Skill>
+    <Skill>Endurance</Skill>
+    <Skill>Parry Ability</Skill>
+    <Skill>Small Edged</Skill>
+    <Skill>Large Edged</Skill>
+    <Skill>Twohanded Edged</Skill>
+    <Skill>Small Blunt</Skill>
+    <Skill>Large Blunt</Skill>
+    <Skill>Twohanded Blunt</Skill>
+    <Skill>Slings</Skill>
+    <Skill>Bow</Skill>
+    <Skill>Crossbow</Skill>
+    <Skill>Staves</Skill>
+    <Skill>Polearms</Skill>
+    <Skill>Light Thrown</Skill>
+    <Skill>Heavy Thrown</Skill>
+    <Skill>Brawling</Skill>
+    <Skill>Offhand Weapon</Skill>
+    <Skill>Melee Mastery</Skill>
+    <Skill>Missile Mastery</Skill>
+    <Skill>Expertise</Skill>
+    <Skill>Targeted Magic</Skill>
+    <Skill>Debilitation</Skill>
+    <Skill>Warding</Skill>
+    <Skill>Evasion</Skill>
+    <Skill>Stealth</Skill>
+    <Skill>Backstab</Skill>
+    <Skill>Tactics</Skill>
+  </SkillGroup>
+  <SkillGroup name="Offenses" skillset="all">
+    <Shortname>offense</Shortname>
+    <Shortname>offens</Shortname>
+    <Shortname>offen</Shortname>
+    <Shortname>offe</Shortname>
+    <Shortname>off</Shortname>
+    <Skill>Small Edged</Skill>
+    <Skill>Large Edged</Skill>
+    <Skill>Twohanded Edged</Skill>
+    <Skill>Small Blunt</Skill>
+    <Skill>Large Blunt</Skill>
+    <Skill>Twohanded Blunt</Skill>
+    <Skill>Slings</Skill>
+    <Skill>Bow</Skill>
+    <Skill>Crossbow</Skill>
+    <Skill>Staves</Skill>
+    <Skill>Polearms</Skill>
+    <Skill>Light Thrown</Skill>
+    <Skill>Heavy Thrown</Skill>
+    <Skill>Brawling</Skill>
+    <Skill>Offhand Weapon</Skill>
+    <Skill>Melee Mastery</Skill>
+    <Skill>Missile Mastery</Skill>
+    <Skill>Expertise</Skill>
+    <Skill>Targeted Magic</Skill>
+    <Skill>Debilitation</Skill>
+    <Skill>Stealth</Skill>
+    <Skill>Backstab</Skill>
+    <Skill>Tactics</Skill>
+  </SkillGroup>
+  <SkillGroup name="Defenses" skillset="all">
+    <Shortname>defense</Shortname>
+    <Shortname>defens</Shortname>
+    <Shortname>defen</Shortname>
+    <Shortname>defe</Shortname>
+    <Shortname>def</Shortname>
+    <Skill>Shield Usage</Skill>
+    <Skill>Light Armor</Skill>
+    <Skill>Chain Armor</Skill>
+    <Skill>Brigandine</Skill>
+    <Skill>Plate Armor</Skill>
+    <Skill>Defending</Skill>
+    <Skill>Endurance</Skill>
+    <Skill>Parry Ability</Skill>
+    <Skill>Warding</Skill>
+    <Skill>Evasion</Skill>
+    <Skill>Stealth</Skill>
+  </SkillGroup>
+  <SkillGroup name="Crafting" skillset="all">
+    <Shortname>crafting</Shortname>
+    <Shortname>craftin</Shortname>
+    <Shortname>crafti</Shortname>
+    <Shortname>craft</Shortname>
+    <Shortname>craf</Shortname>
+    <Shortname>cra</Shortname>
+    <Skill>Locksmithing</Skill>
+    <Skill>Outdoorsmanship</Skill>
+    <Skill>Skinning</Skill>
+    <Skill>Forging</Skill>
+    <Skill>Engineering</Skill>
+    <Skill>Outfitting</Skill>
+    <Skill>Alchemy</Skill>
+    <Skill>Enchanting</Skill>
+    <Skill>Mechanical Lore</Skill>
+  </SkillGroup>
+  <SkillGroup name="Criminal Activities" skillset="all">
+    <Shortname>criminal</Shortname>
+    <Shortname>crimina</Shortname>
+    <Shortname>crimin</Shortname>
+    <Shortname>crimi</Shortname>
+    <Shortname>crim</Shortname>
+    <Skill>Sorcery</Skill>
+    <Skill>Stealth</Skill>
+    <Skill>Locksmithing</Skill>
+    <Skill>Thievery</Skill>
+    <Skill>Backstab</Skill>
+  </SkillGroup>
+  <SkillGroup name="Healing" skillset="all">
+    <Shortname>healing</Shortname>
+    <Shortname>healin</Shortname>
+    <Shortname>heali</Shortname>
+    <Shortname>heal</Shortname>
+    <Skill>Life Magic</Skill>
+    <Skill>Utility</Skill>
+    <Skill>First Aid</Skill>
+    <Skill>Alchemy</Skill>
+    <Skill>Empathy</Skill>
+  </SkillGroup>
+  <SkillGroup name="Jousting" skillset="all">
+    <Shortname>jousting</Shortname>
+    <Shortname>joustin</Shortname>
+    <Shortname>jousti</Shortname>
+    <Shortname>joust</Shortname>
+    <Shortname>jous</Shortname>
+    <Skill>Shield Usage</Skill>
+	<Skill>Plate Armor</Skill>
+    <Skill>Polearms</Skill>
+    <Skill>Outdoorsmanship</Skill>
+  </SkillGroup>
+  <SkillGroup name="Shifting" skillset="lore">
+    <Shortname>shifting</Shortname>
+    <Shortname>shiftin</Shortname>
+    <Shortname>shifti</Shortname>
+    <Shortname>shift</Shortname>
+    <Shortname>shif</Shortname>
+    <Skill>Scholarship</Skill>
+    <Skill>Appraisal</Skill>
+    <Skill>Empathy</Skill>
+  </SkillGroup>
+  <SkillGroup name="Cleric Hard and Soft Reqs" skillset="all">
+    <Shortname>cleric</Shortname>
+    <Shortname>cleri</Shortname>
+    <Shortname>cler</Shortname>
+    <Skill>Shield Usage</Skill>
+    <Skill>Parry Ability</Skill>
+    <Skill>Augmentation</Skill>
+    <Skill>Theurgy</Skill>
+  </SkillGroup>
+  <SkillGroup name="Empath Hard and Soft Reqs" skillset="all">
+    <Shortname>empath</Shortname>
+    <Shortname>empat</Shortname>
+    <Shortname>empa</Shortname>
+    <Shortname>emp</Shortname>
+    <Skill>First Aid</Skill>
+    <Skill>Outdoorsmanship</Skill>
+    <Skill>Scholarship</Skill>
+    <Skill>Empathy</Skill>
+  </SkillGroup>
+  <SkillGroup name="Moon Mage Hard and Soft Reqs" skillset="all">
+    <Shortname>moonmage</Shortname>
+    <Shortname>moonmag</Shortname>
+    <Shortname>moonma</Shortname>
+    <Shortname>moonm</Shortname>
+    <Shortname>moonie</Shortname>
+    <Shortname>moon</Shortname>
+    <Skill>Astrology</Skill>
+    <Skill>Scholarship</Skill>
+  </SkillGroup>
+  <SkillGroup name="Paladin Hard and Soft Reqs" skillset="all">
+    <Shortname>paladin</Shortname>
+    <Shortname>paladi</Shortname>
+    <Shortname>palad</Shortname>
+    <Shortname>pala</Shortname>
+    <Skill>Shield Usage</Skill>
+    <Skill>Defending</Skill>
+    <Skill>Parry Ability</Skill>
+    <Skill>Evasion</Skill>
+    <Skill>Scholarship</Skill>
+    <Skill>Tactics</Skill>
+  </SkillGroup>
+  <SkillGroup name="Thief Hard and Soft Reqs" skillset="all">
+    <Shortname>thief</Shortname>
+    <Shortname>thieves</Shortname>
+    <Shortname>thieve</Shortname>
+    <Shortname>thiev</Shortname>
+    <Shortname>thie</Shortname>
+    <Skill>Parry Ability</Skill>
+    <Skill>Stealth</Skill>
+    <Skill>Thievery</Skill>
+  </SkillGroup>
+</Sort>
